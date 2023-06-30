@@ -33,7 +33,7 @@ const leftBar = () => {
         </div>
         <div className="item">
             <img src={Groups} alt="" />
-            <span>Groups</span>
+            <span>Group1s</span>
           </div>
           <div className="item">
             <img src={Market} alt="" />
